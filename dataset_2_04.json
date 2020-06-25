@@ -1,0 +1,1 @@
+{"obj_attr": [[1, -2]], "obj_sense": "MIN", "const_attr": [[1, 1], [1, -1], [0, 1]], "const_eq": [">=", ">=", "<="], "const_rhs": [[-2, 1, 3]]}
